@@ -1,0 +1,3 @@
+[submodule "JsCompiler"]
+    path = JsCompiler
+    url = https://github.com/Breakout-X/JsCompiler.git
